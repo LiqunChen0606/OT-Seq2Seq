@@ -1,5 +1,7 @@
-# Sequence Generation#
+This code is largely borrowed from [Texar](https://texar.readthedocs.io/en/latest/).
+Please install the requirement first to run the code.
 
+# Sequence Generation #
 This example provide implementations of some classic and advanced training algorithms that tackles the exposure bias. The base model is an attentional seq2seq.
 
 * **Maximum Likelihood (MLE)**: attentional seq2seq model with maximum likelihood training.
