@@ -10,3 +10,4 @@ Folder [texar](./texar) is built upon [Texar](https://github.com/asyml/texar).
 For summarization and translation tasks, please follow this [link](https://github.com/asyml/texar/tree/master/examples/seq2seq_exposure_bias).
 
 ## Brief introduction ##
+![Model intuition](./image/draw2.jpg)
